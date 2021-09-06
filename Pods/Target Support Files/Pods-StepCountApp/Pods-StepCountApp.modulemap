@@ -1,0 +1,6 @@
+framework module Pods_StepCountApp {
+  umbrella header "Pods-StepCountApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
